@@ -1,0 +1,20 @@
+.q-cont{
+    width:100%
+}
+.q-text{
+    font-size: 2vw;
+    text-align: left;
+    padding: 7px;
+}
+.q-text h2{
+    display: inline;
+    text-transform: capitalize;
+     
+}
+@media  screen and (max-width:900px) {
+    .q-text{font-size:20px}
+    .q-text h2{
+        display: block;
+        text-align:center;
+    }
+}
