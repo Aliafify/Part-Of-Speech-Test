@@ -1,10 +1,10 @@
 ## Part-Of-Speech-Test
 ## To install 
 ### 1- go to server directory
- ## npm install 
+  npm install 
 
 ## open new terminal and go to client directory 
-  ##npm install  
+  npm install  
 ## To run go to server directory then:
    npm run dev
 ## How it work? 
